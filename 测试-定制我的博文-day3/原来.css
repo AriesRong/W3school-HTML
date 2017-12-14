@@ -1,0 +1,25 @@
+h1.myStyle_h1{
+  text-align:center;
+  color:#075db3;
+  font-weight:bold; 
+}
+
+h2.myStyle_h2{
+  background:#aa7a53;
+  border-radius: 6px 6px 6px 6px ;
+  box-shadow:0px 0px 0px 1px #5f5a4b, 1px 1px 6px 1px rgba(10,10,0,0.5);
+  color:#ffffff;
+  font-family:"Î¢ÈíÑÅºÚ","ËÎÌå","ºÚÌå",Arial;
+  font-size:17px;
+  font-weight:bold;
+  height:25px;
+  line-height:25px;
+  margin:15px 0;
+  padding:5px 0 5px 20px;
+  text-shadow:text-shadow: 2px 2px 3px #222222;
+}
+
+h3.myStyle_h3{
+  text-indent:15px;
+  color:#aa7a53;
+}
